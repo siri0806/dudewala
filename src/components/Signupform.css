@@ -1,0 +1,24 @@
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .button-container .align-right {
+    margin-left: auto;
+    justify-content: flex-end;
+  }
+  .btn-shadow {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .container {
+    box-shadow: 0 2px 9px rgba(0, 0, 0, 0.2);
+  }
+  .form-control {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  .formh{
+    width: 70%;
+    height: 70%;
+  }
